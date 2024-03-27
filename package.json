@@ -1,0 +1,39 @@
+{
+  "name": "cyto-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-tracker.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-tracker/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-tracker#readme",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "cytoscape": "^3.28.1",
+    "debug": "^4.3.4",
+    "is-array": "^1.0.1",
+    "is-falsy": "^0.0.1",
+    "is-odd": "^3.0.1",
+    "lazy-store-loader": "^2.0.3",
+    "querystring": "^0.2.1",
+    "vite": "^5.2.6",
+    "cyto-analytics": "^1.0.0",
+    "cyto-parser": "^1.0.0",
+    "cyto-core": "^1.0.0",
+    "cyto-data": "^1.0.0",
+    "cyto-controller": "^1.0.0",
+    "cyto-backend": "^1.0.0",
+    "cyto-frontend": "^1.0.0",
+    "cyto-adapter": "^1.0.0",
+    "cyto-validator": "^1.0.0"
+  }
+}
